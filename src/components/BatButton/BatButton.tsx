@@ -7,7 +7,7 @@
   import Icon from 'react-native-vector-icons/MaterialCommunityIcons';
   import savePasswords from '../../services/savePassword';
 
-  export function BatButton({navigation}) {
+  export function BatButton({navigation}:any) {
     const [pass, setPass] = useState('');
 
     function handleGeneratePass() {
