@@ -1,0 +1,3 @@
+rnbc = criar a estrutura completa de um componente React Native;
+
+rnso = criar estrutura completa de style;
